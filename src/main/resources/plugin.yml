@@ -1,6 +1,6 @@
-name: WMBattle
-main: com.takaranoao.wmbattle.WMBattle
+name: BlueCore
+main: com.takaranoao.BlueCore.BlueCoreLoader
 version: 1.0
-dev-url: https://github.com/baolan-zifu/WMBattle
+dev-url: https://github.com/baolan-zifu/BlueCore
 commands:
 permissions:
