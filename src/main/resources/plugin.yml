@@ -1,0 +1,6 @@
+name: WMBattle
+main: com.takaranoao.wmbattle.WMBattle
+version: 1.0
+dev-url: https://github.com/baolan-zifu/WMBattle
+commands:
+permissions:
